@@ -10,6 +10,7 @@ I am a fictonal HR analyst for Pewlett-Hackard with an assignment to prepare the
 ## Resources
 - Software: pgAdmin 4
 - Language: SQL
+- Source Files: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 - Output Files: retirement_titles.csv, unique_titles.csv, retiring_titles.csv, mentorship_eligibilty.csv
 
 ## Results: bulleted list with four major points from the two analysis deliverables. (6 pt)
