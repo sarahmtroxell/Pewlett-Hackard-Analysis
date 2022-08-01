@@ -23,9 +23,12 @@ I am a fictonal HR analyst for Pewlett-Hackard with an assignment to prepare the
 I added
 ![Mentorship Elgibility](../main/Resources/mentorship_titles.png)
 - There are
+- 
 
 ## Analysis: summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
 ### Questions
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 ### Additional Insights
 1. The mentorship_elgibility table identified the remaining employees that could participate in the mentorship program. I wrote an additonal query to count the elgible employees grouped by title, which would allow Pewlett-Hackard to ensure they had an adequete amount of elgible employees to pair up in a similar role.
