@@ -54,4 +54,15 @@ WHERE de.to_date = '9999-01-01'
 ORDER BY e.emp_no;
 
 --Challenge Code: Deliverable 3
+
+--Total Number of Employees Set to Retire
+SELECT COUNT(emp_no)
+FROM unique_titles;
+
+--Number of Current Employees by Job Title Eligible for Mentorship Program
+SELECT COUNT(emp_no), title
+FROM mentorship_elgibility
+GROUP BY title
+ORDER BY COUNT(emp_no);
+
 --Report in GitHub ReadME.md file
